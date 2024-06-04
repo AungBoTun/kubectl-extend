@@ -1,0 +1,1 @@
+apiURL: "https://tlm-api.gke-use4-001.dev.symphony.com/v1/tenants/{tenant_id}/status"
